@@ -1,10 +1,10 @@
-# Práctico de Data Visualization
+## Práctico de Data Visualization
 
-## Tarea 1
+# Tarea 1
 
 Se presentan los gráficos en el pdf de LaTex, con los comentarios pertinentes y el código de R para hacer esos gráficos (Código.R).
 
-## Tarea 2
+# Tarea 2
 
 En primer lugar, se suben 4 mapas, en lugar de 3.
 
